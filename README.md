@@ -6,7 +6,7 @@ Production-ready React with Vite template optimized for AI-assisted development 
 
 Deploy this production-ready template directly to Deployxa Cloud.
 
-[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https%3A%2F%2Fgithub.com%2Fdeployxa-templates%2Fdeployxa-react-vite&template=react-vite&framework=react&branch=main&name=deployxa-react-vite&runtime=Node.js+20&package_manager=npm&build_command=npm+run+build&start_command=npm+run+preview&dockerfile=Dockerfile&version=1.0.0&build_time=45s&image_size=180MB&env_vars=NODE_ENV%2CPORT)
+[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https://github.com/deployxa-templates/deployxa-react-vite)
 
 ### Or deploy using the CLI
 
