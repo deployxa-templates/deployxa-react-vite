@@ -6,7 +6,7 @@ Production-ready React with Vite template optimized for AI-assisted development 
 
 Deploy this production-ready template directly to Deployxa Cloud.
 
-[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/new?template=react-vite&framework=react-vite&repo=https://github.com/deployxa-templates/deployxa-react-vite&branch=main&source=github&campaign=official-template)
+[![Deploy with Deployxa](branding/deploy-button.svg)](https://deployxa.com/dashboard/new?repo=https%3A%2F%2Fgithub.com%2Fdeployxa-templates%2Fdeployxa-react-vite&template=react-vite&framework=react&branch=main&name=deployxa-react-vite&runtime=Node.js+20&package_manager=npm&build_command=npm+run+build&start_command=npm+run+preview&dockerfile=Dockerfile&version=1.0.0&build_time=45s&image_size=180MB&env_vars=NODE_ENV%2CPORT)
 
 ### Or deploy using the CLI
 
@@ -66,9 +66,9 @@ Compatible with major AI tools:
 
 * **Dockerfile**: Advanced production multi-stage container configuration.
 * **docker-compose.yml**: Configured local orchestration stack.
-* **Health Checks**: Endpoint `/health` returning `{"status":"ok"}`.
+* **Health Checks**: Endpoint `/health` returning {"status":"ok"}.
 * **Logging**: Production-grade logging defaults.
-* **Security**: Non-root user permissions, hardened base image.
+* **Security**: Hardened base image, run as non-root user.
 * **CI Actions**: Automated pipeline for building, linting, testing, and Docker validation.
 
 ---
